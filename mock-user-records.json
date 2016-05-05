@@ -1,1 +1,65 @@
-[{"accountType":"auto-loan","agencyName":"Toyota Financial","balance":18000,"rate":4,"date":"2014-06-15"},{"accountType":"auto-loan","agencyName":"Honda Financial","balance":15000,"rate":3.5,"date":"2013-08-15"},{"accountType":"visa","agencyName":"CitiBank","balance":5000,"rate":12,"date":"2005-08-01"},{"accountType":"visa","agencyName":"Wells Fargo","balance":1000,"rate":11,"date":"20101-05-01"},{"accountType":"visa","agencyName":"Chase","balance":1000,"rate":11,"date":"20101-05-01"},{"accountType":"master","agencyName":"Bank of West","balance":1000,"rate":11,"date":"20101-05-01"},{"accountType":"personal-loan","agencyName":"East Bank","balance":80000,"rate":5,"date":"2011-02-15"},{"accountType":"equity","agencyName":"Chase","balance":80000,"rate":5,"date":"2011-02-15"},{"accountType":"mortgage","agencyName":"BOA","balance":300000,"rate":5,"date":"2011-02-15"}]
+[
+  {
+    "accountType":"auto-loan",
+    "agencyName":"Toyota Financial",
+    "balance":18000,
+    "rate":4,
+    "date":"2014-06-15"
+  },
+  {
+    "accountType":"auto-loan",
+    "agencyName":"Honda Financial",
+    "balance":15000,
+    "rate":3.5,
+    "date":"2013-08-15"
+  },
+  {
+    "accountType":"visa",
+    "agencyName":"CitiBank",
+    "balance":5000,
+    "rate":12,
+    "date":"2005-08-01"
+  },
+  {
+    "accountType":"visa",
+    "agencyName":"Wells Fargo",
+    "balance":1000,
+    "rate":11,
+    "date":"20101-05-01"
+  },
+  {
+    "accountType":"visa",
+    "agencyName":"Chase",
+    "balance":1000,
+    "rate":11,
+    "date":"20101-05-01"
+  },
+  {
+    "accountType":"master",
+    "agencyName":"Bank of West",
+    "balance":1000,
+    "rate":11,
+    "date":"20101-05-01"
+  },
+  {
+    "accountType":"personal-loan",
+    "agencyName":"East Bank",
+    "balance":80000,
+    "rate":5,
+    "date":"2011-02-15"
+  },
+  {
+    "accountType":"equity",
+    "agencyName":"Chase",
+    "balance":80000,
+    "rate":5,
+    "date":"2011-02-15"
+  },
+  {
+    "accountType":"mortgage",
+    "agencyName":"BOA",
+    "balance":300000,
+    "rate":5,
+    "date":"2011-02-15"
+  }
+]
