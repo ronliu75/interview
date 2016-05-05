@@ -1,0 +1,27 @@
+{
+  "groupId":1,
+  "groupName":"Accounts",
+  "children":[
+    {
+      "groupId":2,
+      "groupName":"Loans",
+      "childre": [
+        {
+          "groupId":4,
+          "groupName":"Property Loan",
+          "accountTypes":["mortgage","equity"]
+        },
+        {
+          "groupId": 5,
+          "groupName": "Other Loan",
+          "accountTypes":["auto-loan","personal-loan"]
+        }
+      ]
+    },
+    {
+      "groupId":3,
+       "groupName":"Credit Cards",
+       "accountTypes":["visa","master","amx"]
+    }
+  ]
+}

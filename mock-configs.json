@@ -1,1 +1,16 @@
-{"groupId":3,"groupName":"Accounts","children":[{"groupId":1,"groupName":"Loan","accountTypes":["mortgage","auto-loan","personal-loan"]},{"groupId":2,"groupName":"Credit Card","accountTypes":["visa","master","amx"]}]}
+{
+  "groupId":1,
+  "groupName":"Accounts",
+  "children":[
+    {
+      "groupId":2,
+      "groupName":"Loans",
+      "accountTypes":["mortgage","auto-loan","personal-loan"]
+    },
+    {
+      "groupId":3,
+       "groupName":"Credit Cards",
+       "accountTypes":["visa","master","amx"]
+    }
+  ]
+}
