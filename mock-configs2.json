@@ -5,7 +5,7 @@
     {
       "groupId":2,
       "groupName":"Loans",
-      "childre": [
+      "children": [
         {
           "groupId":4,
           "groupName":"Property Loans",
