@@ -8,12 +8,12 @@
       "childre": [
         {
           "groupId":4,
-          "groupName":"Property Loan",
+          "groupName":"Property Loans",
           "accountTypes":["mortgage","equity"]
         },
         {
           "groupId": 5,
-          "groupName": "Other Loan",
+          "groupName": "Other Loans",
           "accountTypes":["auto-loan","personal-loan"]
         }
       ]
